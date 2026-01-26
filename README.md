@@ -49,6 +49,9 @@ As Founder of **Alfazet**, I'm working on innovative solutions that merge hospit
 - ☕ Hospitality at heart – always thinking about the human experience  
 - 🌍 Building bridges between traditional hospitality and digital innovation
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eternograf&show_icons=true&theme=default)
+
 ---
 
 > *"Technology should enhance human connection, not replace it."*
