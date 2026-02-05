@@ -19,10 +19,16 @@ Welcome to my GitHub profile! I blend hospitality expertise with technical innov
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Web Design**  
-- UI/UX Design · Responsive Design · Prototyping · Brand Identity
+- UI/UX Design
+- Responsive Design
+- Prototyping
+- Brand Identity
 
 **Data Analytics**  
-- Business Intelligence · Data Visualization · Customer Insights · Performance Metrics
+- Business Intelligence
+- Data Visualization
+- Customer Insights
+- Performance Metrics
 
 ## 🌟 What I'm Building
 As Founder of **Alfazet**, I'm working on innovative solutions that merge hospitality operations with modern web technologies and data analytics to deliver exceptional guest experiences.
